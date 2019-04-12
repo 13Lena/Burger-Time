@@ -1,0 +1,24 @@
+{
+  "name": "burger-time",
+  "version": "1.0.0",
+  "description": "eating burger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13Lena/Burger-Time.git"
+  },
+  "author": "Lena13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13Lena/Burger-Time/issues"
+  },
+  "homepage": "https://github.com/13Lena/Burger-Time#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.16.0"
+  }
+}
